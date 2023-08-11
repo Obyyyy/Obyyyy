@@ -1,4 +1,10 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.\
+
+Saya seorang Mahasiswa Teknologi Infromas di Universitas Lambung Mangkurat.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/obyy/)ku ya.
 
 <!--
 **Obyyyy/Obyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
