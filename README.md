@@ -1,8 +1,8 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Gilang Ramadhan**.\
+Perkenalkan nama saya **Gilang Ramadhan**.
 
-Saya seorang Mahasiswa Teknologi Infromas di Universitas Lambung Mangkurat.\
+Saya seorang Mahasiswa Teknologi Infromas di Universitas Lambung Mangkurat.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/obyy/) ku ya.
 
