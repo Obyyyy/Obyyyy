@@ -2,7 +2,10 @@
 
 My name is **Muhammad Qalby**.
 
-I am a student majoring in Information Technology at Lambung Mangkurat University.
+I'm an undergraduate student majoring in Information Technology at Lambung Mangkurat University. Proficient in
+Cloud Computing with a focus on Google Cloud, I also possess hands-on experience in developing backend
+applications using Node.js. Committed to responsibility and driven by a passion for continuous learning, I am
+adept at collaborative teamwork.
 
 #### Connect with me:
 <a href="https://www.linkedin.com/in/obyy/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
